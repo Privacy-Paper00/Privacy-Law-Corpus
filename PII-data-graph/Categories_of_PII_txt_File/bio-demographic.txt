@@ -1,0 +1,27 @@
+age                                                         
+birth                                                       
+cell phone number                                           
+date of birth                                               
+death                                                       
+divorce                                                     
+education                                                   
+family                                                      
+first name                                                  
+full name                                                   
+gender                                                      
+gender expression                                           
+gender identity                                             
+height                                                      
+language                                                    
+last name                                                   
+marital status                                              
+marriage        
+middle name                                            
+name                                                        
+national origin                                             
+personal data                                               
+place of birth                                              
+real name                                                   
+sex                                                         
+sexual orientation 
+surname                                         

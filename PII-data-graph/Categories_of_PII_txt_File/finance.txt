@@ -1,0 +1,8 @@
+bank account number                                         
+credit card                                                 
+credit card number                                          
+debit card                                                  
+debit card number                                           
+economic situation                                          
+financial account                                           
+financial information                                       

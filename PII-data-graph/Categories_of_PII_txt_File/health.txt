@@ -1,0 +1,40 @@
+aids                                                        
+biological                                                  
+breastfeeding                                               
+cancer                                                      
+childbirth                                                  
+chiropractic                                                
+dentistry                                                   
+diagnosis                                                   
+disability                                                  
+disease prevention                                                                                 
+fitness                                                   
+health                                                      
+health condition                                            
+health insurance information                                
+health promotion                                            
+health status                                               
+healthcare                                                  
+healthcare information                                      
+healthcare provider                                         
+hiv                                                         
+medical condition                                           
+medical diagnosis                                           
+medical history   
+medical information                                                                                  
+medical record                                              
+medical treatment                                           
+medicine                                                    
+mental                                                      
+mental condition                                            
+mental health                                               
+nursing                                                     
+occupational therapy                                        
+olfactory                                                   
+optometry                                                   
+patient                                                     
+pharmacy                                                    
+physical health                                             
+pregnancy                                                   
+protected health information                                
+sleep

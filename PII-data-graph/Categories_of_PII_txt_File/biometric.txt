@@ -1,0 +1,14 @@
+biometric                                                   
+biometric data                                              
+biometric information                                       
+face                                                        
+faceprint                                                   
+facial recognition                                          
+fingerprint
+gait                                                 
+iris                                                        
+retina                                                      
+thermal                                                     
+unique biometric                                            
+voice                                                       
+voiceprint                                            

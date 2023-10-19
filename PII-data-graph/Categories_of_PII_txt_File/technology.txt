@@ -1,0 +1,9 @@
+access code                                                 
+audio                                                       
+automated processing                                        
+browsing history                                            
+dark pattern                                                
+network activity                                            
+password                                                    
+user id                                                     
+video                                                       

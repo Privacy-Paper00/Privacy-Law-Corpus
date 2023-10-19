@@ -1,0 +1,17 @@
+aadhar
+citizenship                                                 
+citizenship status                                          
+customer number     
+Documento Nacional de Identidad                                        
+driver license                                              
+identification card number                                  
+identification number                                       
+insurance policy number                                     
+military status                                             
+national id                                                 
+passport number                                             
+personal identification number                              
+ssn
+social security number                                      
+state identification card                                   
+taxpayer id                                                 

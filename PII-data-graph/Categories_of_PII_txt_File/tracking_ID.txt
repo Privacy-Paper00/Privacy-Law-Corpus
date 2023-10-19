@@ -1,0 +1,9 @@
+beacons                                                     
+device identifier                                           
+internet activity                                           
+internet protocol address                                   
+internet protocol ip address                                
+ip address                                                  
+mac address                                                 
+online identifier                                           
+persistent identifier                                

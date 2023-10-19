@@ -1,0 +1,8 @@
+ancestry                                                    
+color                                                       
+ethnic                                                      
+ethnic origin                                               
+ethnicity                                                   
+race                                                        
+racial                                                      
+racial origin                                               
