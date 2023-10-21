@@ -23,8 +23,10 @@ Ensure that you have the following packages installed:
   pip install seaborn
 
 2. Update the following variables in the code to point to the appropriate directories:
+   'df'   : This should point to the directory containing the 'Data_for_graph.xlsx' file
    'path' : This should point to the directory containing the 14 text files (each file contains a list of terms related to a specific PII category).
-   'p1'   : This should point to the directory containing the text documents (The documents in this folder are only in English, including documents written originally in English and translations).
+   'p1'   : This should point to the directory containing the text documents (The documents in this folder are only in English, including documents written
+originally in English and translations).
 
 3. Run the code, and it will generate two images: one containing multiple graphs and the other displaying the Pearson correlation matrix.
 
