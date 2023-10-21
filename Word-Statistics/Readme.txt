@@ -1,4 +1,4 @@
-## Project Description
+## Code Description
 
 This code is designed to collect and organize word count data for native English text files and English translated text files.
 It also provides summary statistics regarding the word counts in these files. 
